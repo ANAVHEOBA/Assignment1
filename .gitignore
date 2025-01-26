@@ -1,0 +1,9 @@
+# Binaries
+*.exe
+*.dll
+*/bin/
+*/obj/
+
+# IDE/Editor
+.vscode/
+.idea/
